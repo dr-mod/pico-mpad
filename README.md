@@ -14,7 +14,7 @@ To build this project you need access to a 3d printer. The model folder contains
 * Connection wire
 
 ### Print
-The models can be downloaded from thingiverse [here](https://www.thingiverse.com/thing:4939861).
+The models can be downloaded from printables [here](https://www.printables.com/model/237720-pico-mpad).
 
 ### Assembly
 ![](docs/components.jpg)
